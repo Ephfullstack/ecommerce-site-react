@@ -1,18 +1,17 @@
 [
-    {
-        "title": "Inez Dean Hoodie",
-        "id": "hoodie",
-        "description": "Pullover Hoodie",
-        "price": "2.00"
-        
-    }    ,
+  {
+    "title": "Inez Dean Hoodie",
+    "image": "/Images/Hoodie.png",
+    "id": "hoodie",
+    "description": "Pullover Hoodie",
+    "price": "2.00"
+  },
 
-    {
-        "title": "Inez Dean Joggers",
-        "id": "Joggers",
-        "description": "Inez Dean Joggers",
-        "price": "4.00"
-    }
-
- 
+  {
+    "title": "Inez Dean Joggers",
+    "image": "/Images/Joggers.png",
+    "id": "Joggers",
+    "description": "Inez Dean Joggers",
+    "price": "4.00"
+  }
 ]
