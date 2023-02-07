@@ -8,6 +8,12 @@ const inter = Inter({ subsets: ["latin"] });
 export default function Home() {
   return (
     <main className={styles.main}>
+      <script
+        async
+        src="https://cdn.snipcart.com/themes/v3.2.2/default/snipcart.js"
+      />
+      <div hidden id="snipcart" data-api-key="[YOUR-API-KEY]" />
+
       <div className={styles.description}>
         <p>
           Get started by editing&nbsp;
@@ -61,6 +67,12 @@ export default function Home() {
           );
         })}
       </div>
+
+      <script
+        async
+        src="https://cdn.snipcart.com/themes/v3.2.2/default/snipcart.js"
+      />
+      <div hidden id="snipcart" data-api-key="[NTNlNTQzMGYtMTAzYS00YzY3LTgyMTEtZjZmNmU0NmFlN2UwNjM4MTE0MDYzNjY3Mjc4MDM4]" />
     </main>
   );
 }
